@@ -2,7 +2,7 @@
 Data for publication "High-throughput computational analysis of kinetic barriers to ring-closing depolymerization for aliphatic polycarbonates"
 
 ## DFTB
-DFTB calculated barriers for 51 polycarbonates
+DFTB calculated barriers for 50 polycarbonates
 - SMILES: the SMILES string of the ring form of the carbonate monomer
 - compound: the reference number as referred to in the paper
 - DFTB_barrier: barrier in kcal/mol, by the methods described in the paper
